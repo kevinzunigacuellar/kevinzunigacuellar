@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I am Kevin.
+
+#### 2022 Goals
+
+- Be happy 😊
+
+**Let's connect**: [Twitter](https://twitter.com/kevinzunigacuel) • [Website](https://kevinzunigacuellar.com)
 
 <!--
 **kevinzunigacuellar/kevinzunigacuellar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
