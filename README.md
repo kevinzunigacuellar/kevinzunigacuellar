@@ -3,8 +3,9 @@
 #### 2022 Goals
 
 - Be happy 😊
+- Learn Rust
 
-**Let's connect**: [Twitter](https://twitter.com/kevinzunigacuel) • [Website](https://kevinzunigacuellar.com)
+**Let's connect**: [Twitter](https://twitter.com/kevinzunigacuel) • [Website](https://kevinzunigacuellar.com) • [LinkedIn](https://www.linkedin.com/in/kevinzunigacuellar/)
 
 <!--
 **kevinzunigacuellar/kevinzunigacuellar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
