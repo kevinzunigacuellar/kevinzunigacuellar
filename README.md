@@ -6,6 +6,7 @@
 ### 2022 Goals
 
 - Be happy 😊
+- Do at least 2 contributions to open source
 
 **Let's connect**: [Twitter](https://twitter.com/kevinzunigacuel) • [Website](https://kevinzunigacuellar.com) • [LinkedIn](https://www.linkedin.com/in/kevinzunigacuellar/)
 
