@@ -1,7 +1,7 @@
 ### Hi there, I am Kevin
 
 - 🌱 I’m currently learning Rust
-- 👯 I’m looking to collaborate on Deno
+- 👯 I’m looking to collaborate on [Deno](https://github.com/denoland) and [Astro](https://github.com/withastro/astro)
 
 ### 2022 Goals
 
