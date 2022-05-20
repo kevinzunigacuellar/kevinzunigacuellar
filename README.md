@@ -5,6 +5,7 @@
 
 ### 2022 Goals
 
-- Be happy 😊
+- [x] Be happy 😊
+- [x] ~~Contribute to open source~~
 
 **Let's connect**: [Twitter](https://twitter.com/kevinzunigacuel) • [Website](https://kevinzunigacuellar.com) • [LinkedIn](https://www.linkedin.com/in/kevinzunigacuellar/)
