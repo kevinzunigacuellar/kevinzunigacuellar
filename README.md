@@ -10,3 +10,5 @@
 - [ ] Finish my thesis? 😅
 
 **Let's connect**: [Twitter](https://twitter.com/kevinzunigacuel) • [Website](https://kevinzunigacuellar.com) • [LinkedIn](https://www.linkedin.com/in/kevinzunigacuellar/)
+
+<img src="https://github-readme-stats.vercel.app/api?username=kevinzunigacuellar&show_icons=true&theme=github_dark" alt="kevin github stats" />
