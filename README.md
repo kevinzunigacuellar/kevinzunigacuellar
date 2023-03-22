@@ -1,9 +1,7 @@
-## Hi there, I am Kevin
+## Welcome to my GitHub
 
-#### 2022 Goals
-
-- [x] ~~Be happy 😊~~
-- [x] ~~Contribute to open source~~
+#### 2023 Goals
+- [x] Be happy
 - [ ] Finish my thesis? 😅
 
 ### Astro Badge 🛡
