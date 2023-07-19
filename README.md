@@ -2,7 +2,7 @@
 
 #### 2023 Goals
 - [x] Be happy
-- [ ] Finish my thesis? 😅
+- [x] Finish my thesis? 😅
 
 ### Astro Badge 🛡
 
