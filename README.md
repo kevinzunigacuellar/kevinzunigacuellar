@@ -1,12 +1,6 @@
 ## Welcome to my GitHub
 
-> 🟢 Open to work in the US
-> 
-> 📄 [Resume](https://www.kevinzunigacuellar.com/resume.pdf)
-
-#### 2023 Goals
-- [x] Be happy
-- [x] Finish my thesis? 😅
+🟢 Open to work in the US - 📝 [Resume](https://www.kevinzunigacuellar.com/resume.pdf)
 
 ### Astro Badge 🛡
 
